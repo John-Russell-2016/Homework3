@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT Homework3.wsgi:application

@@ -1,0 +1,37 @@
+
+  Id CommandLine                                                                                                       
+  -- -----------                                                                                                       
+   2 cd mysite                                                                                                         
+   3 python manage.py runserver                                                                                        
+   4 python manage.py runserver                                                                                        
+   5 from django.test import Client                                                                                    
+   6 python "...                                                                                                       
+   7 python                                                                                                            
+   8 python                                                                                                            
+   9 $Env:DATABASE_URL="postgres://x61588:x61588@usmasvddsol.eecs.usma.edu:5432/x61588"                                
+  10 Echo $Env:DATABASE_URL                                                                                            
+  11 python manage.py syncdb                                                                                           
+  12 python manage.py syncdb                                                                                           
+  13 python manage.py runserver                                                                                        
+  14 python                                                                                                            
+  15 python manage.py                                                                                                  
+  16 python manage.py shell                                                                                            
+  17 cd ../                                                                                                            
+  18 django-admin startproject --template=http://github.com/usma-it394/it394_project_template/archive/master.zip Hom...
+  19 cd Homework_3                                                                                                     
+  20 .\fix_name.ps1 -name "Homework_3"                                                                                 
+  21 dir                                                                                                               
+  22 more procfile                                                                                                     
+  23 cd ../                                                                                                            
+  24 django-admin startproject --template=http://github.com/usma-it394/it394_project_template/archive/master.zip Hom...
+  25 cd Homework3                                                                                                      
+  26 dir                                                                                                               
+  27 .\fix_name.ps1 -name "Homework3"                                                                                  
+  28 more manage.py                                                                                                    
+  29 git init                                                                                                          
+  30 dir s:                                                                                                            
+  31 echo $Env:HOMEDRIVE                                                                                               
+  32 echo $Env:HOMEPATH                                                                                                
+  33 history                                                                                                           
+
+
